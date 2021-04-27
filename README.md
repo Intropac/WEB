@@ -1,3 +1,3 @@
 #WEB
 
-<a href="https://github.com/Intropac/WEB/tree/main/EPG3380">Pagina web de la Consultora</a>
+<a href="https://github.com/Intropac/WEB/blob/main/EPG3380/index.html">Pagina web de la Consultora</a>
